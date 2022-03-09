@@ -9,3 +9,4 @@ The project requires to install the following dependancies.
 Opencv-python
 Tensorflow
 
+![Screenshot from 2022-03-09 20-04-57](https://user-images.githubusercontent.com/100993952/157525016-898d29bb-245b-4e89-b568-1a36ab4a9206.png)
